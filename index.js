@@ -234,8 +234,8 @@ const {
 🎉 *All systems operational!*
 ⏰ *Started at:* ${new Date().toLocaleString()}
 
-⭐ *Channel:* https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J
-⭐ *GitHub:* https://github.com/ERFAN-Md/DARKZONE-MD/fork`;
+⭐ *Channel:* https://whatsapp.com/channel/0029VbC1kzsInlqJ4rUyxU3U
+⭐ *GitHub:* https://github.com/AHMADHASSAN43/AHMAD-MD/fork`;
 
                   await new Promise(resolve => setTimeout(resolve, 2000));
                       
