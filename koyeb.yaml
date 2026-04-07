@@ -212,7 +212,7 @@ name: AHMAD-{
   
 MD
 services:
-  - name: DARKZONE-MD-service
+  - name: AHMAD-MD-service
     type: web
     ports:
       - 5000
