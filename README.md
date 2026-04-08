@@ -1,5 +1,3 @@
----
-
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
 🧾 PROJECT STATS AHMAD-MD
 </h2>
