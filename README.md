@@ -1,3 +1,14 @@
+<p align="center">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/AHMADHASSAN43/AHMAD-MD&branch=main&name=ahmad-md">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb" width="200">
+</a>
+</p>
+
+<p align="center">
+<a href="https://render.com/deploy?repo=https://github.com/AHMADHASSAN43/AHMAD-MD">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" width="200">
+</a>
+</p>
 <div align="center">
 
 <video src="https://github.com/AHMADHASSAN43/AHMAD-MD/raw/main/vh56ik.mp4" width="100%" controls autoplay loop muted></video>
