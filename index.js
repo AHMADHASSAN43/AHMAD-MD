@@ -66,12 +66,15 @@ async function loadSession() {
         const data = await new Promise((resolve, reject) => {
             filer.download((err, data) => { err ? reject(err) : resolve(data); });
         });
-        fs.writeFileSync(path.join(__dirname, 'sessions', 'creds.json'), data);
+        const sessDir = path.join(__dirname, 'sessions');
+        if (!fs.existsSync(sessDir)) fs.mkdirSync(sessDir);
+        fs.writeFileSync(path.join(sessDir, 'creds.json'), data);
         return JSON.parse(data.toString());
     } catch (error) { return null; }
 }
 
 async function connectToWA() {
+    console.log("[🔰] AHMAD-MD Connecting...");
     const creds = await loadSession();
     const { state, saveCreds } = await useMultiFileAuthState(path.join(__dirname, 'sessions'), { creds: creds || undefined });
     const { version } = await fetchLatestBaileysVersion();
@@ -81,15 +84,21 @@ async function connectToWA() {
         printQRInTerminal: !creds,
         browser: Browsers.macOS("Firefox"),
         auth: state,
-        version
+        version,
+        getMessage: async () => ({})
     });
 
     conn.ev.on('connection.update', async (update) => {
-        const { connection } = update;
-        if (connection === 'open') {
-            console.log('[🔰] AHMAD-MD connected ✅');
+        const { connection, lastDisconnect } = update;
+        if (connection === 'close') {
+            if (lastDisconnect.error?.output?.statusCode !== DisconnectReason.loggedOut) {
+                setTimeout(connectToWA, 5000);
+            }
+        } else if (connection === 'open') {
+            console.log('[🔰] AHMAD-MD CONNECTED ✅');
             const botJid = conn.user.id.split(':')[0] + '@s.whatsapp.net';
-            const upMessage = "*AHMAD-MD IS LIVE NOW!*";
+            const botName = config.BOT_NAME || 'AHMAD-MD';
+            const upMessage = `╭━━〔 ${botName} 〕━━╮\n┃ ✅ Status: Online\n┃ 🔌 Power: High\n╰━━━━━━━━━━━━━━━╯`;
             await conn.sendMessage(botJid, { text: upMessage });
         }
     });
@@ -100,10 +109,19 @@ async function connectToWA() {
         mek = mek.messages[0];
         if (!mek.message) return;
         const from = mek.key.remoteJid;
+        const botNumber = conn.user.id.split(':')[0];
+        const sender = mek.key.participant || mek.key.remoteJid;
+        const senderNumber = sender.split('@')[0];
+
         if (config.AUTO_REACT === 'true') {
             await conn.sendMessage(from, { react: { text: '❤️', key: mek.key } });
+        }
+        
+        if (senderNumber === botNumber && config.OWNER_REACT === 'true') {
+            await conn.sendMessage(from, { react: { text: '👑', key: mek.key } });
         }
     });
 }
 
 connectToWA();
+       
