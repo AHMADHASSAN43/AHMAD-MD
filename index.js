@@ -239,10 +239,10 @@ const {
 
                        // ============ CONNECTION MESSAGE ============
               try {
-                  const botJid = conn.user.id.split(':')[0] + '@s.whatsapp.net';
+                                    const botJid = conn.user.id.split(':')[0] + '@s.whatsapp.net';
                   const botName = config.BOT_NAME || 'AHMAD-MD';
                   const ownerName = config.OWNER_NAME || 'Owner';
-                      
+                
                   const upMessage = `╭━━━━━━━━━━━━━━━━━━━╮
 ┃  🤖 *${botName} STARTED*
 ┃━━━━━━━━━━━━━━━━━━━━
