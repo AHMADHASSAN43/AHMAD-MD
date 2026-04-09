@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AHMADHASSAN43/AHMAD-MD/main/1000242413.jpg" width="100%" alt="AHMAD-MD Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6a0dad,100:ab47bc&text=AHMAD%20MD&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=twinkling&desc=Powered%20By%20AHMAD%20HASAN&descSize=20&descAlignY=65" width="100%"/>
 
 <hr>
 
@@ -42,9 +42,9 @@
 <hr>
 
 <h2 align="center">🚀 Deploy Free on VPS</h2>
-<blockquote>
-Star this repository to support the project. Fork the repository to your own GitHub account. Copy your GitHub username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup.
-</blockquote>
+<p align="center">
+Star this repository to support the project. Fork the repository to your own GitHub account. Copy your GitHub username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup. Click on Deploy and wait about 5 minutes for the bot to start automatically.
+</p>
 
 <hr>
 
