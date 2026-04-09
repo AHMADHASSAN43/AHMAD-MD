@@ -1,9 +1,8 @@
-# AHMAD-MD WhatsApp Bot 🚀
-
 <div align="center">
-  <video src="https://github.com/AHMADHASSAN43/AHMAD-MD/blob/main/vh56ik.mp4?raw=true" width="400" controls autoplay loop muted>
+  <video src="https://raw.githubusercontent.com/AHMADHASSAN43/AHMAD-MD/main/vh56ik.mp4" width="100%" controls autoplay loop muted>
   </video>
 </div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=AHMAD%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20AHMAD%20HASAN&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
