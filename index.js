@@ -237,25 +237,28 @@ const {
 ⭐ *Channel:* https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J
 ⭐ *GitHub:* https://github.com/ERFAN-Md/DARKZONE-MD/fork`;
 
+                       // ============ CONNECTION MESSAGE ============
+              try {
+                  const botJid = conn.user.id.split(':')[0] + '@s.whatsapp.net';
+                  const botName = config.BOT_NAME || 'AHMAD-MD';
+                  const ownerName = config.OWNER_NAME || 'Owner';
+                      
+                  const upMessage = `╭━━━━━━━━━━━━━━━━━━━╮
+┃  🤖 *${botName} STARTED*
+┃━━━━━━━━━━━━━━━━━━━━
+┃ ✅ *Status:* Online
+┃ 📡 *Connection:* Successful
+┃ 🔌 *THE POWERFUL BOT*
+╰━━━━━━━━━━━━━━━━━━━╯`;
+
                   await new Promise(resolve => setTimeout(resolve, 2000));
                       
                   await conn.sendMessage(botJid, { 
                       image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/p4xi2g.jpg' }, 
-                      caption: upMessage,
-                      contextInfo: {
-                          forwardingScore: 999,
-                          isForwarded: true,
-                          forwardedNewsletterMessageInfo: {
-                              newsletterName: botName,
-                              newsletterJid: "120363416743041101@newsletter",
-                          }
-                      }
+                      caption: upMessage
                   });
                   console.log('[🔰] Connect message sent to: ' + botJid);
-                      
-              } catch (sendError) {
-                  console.error('[🔰] Error sending messages:', sendError);
-              }
+                    
           }
 
           if (qr) {
