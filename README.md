@@ -41,13 +41,6 @@
 
 <hr>
 
-<h2 align="center">🚀 Deploy Free on VPS</h2>
-<p align="center">
-Star this repository to support the project. Fork the repository to your own GitHub account. Copy your GitHub username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup. Click on Deploy and wait about 5 minutes for the bot to start automatically.
-</p>
-
-<hr>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AHMADHASSAN43&label=Views&color=9D00FF&style=flat-square" />
 <img src="https://img.shields.io/github/stars/AHMADHASSAN43/AHMAD-MD?color=9D00FF&label=Stars&style=flat-square" />
