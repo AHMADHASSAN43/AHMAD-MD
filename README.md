@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://telegra.ph/file/47a2a4b876a4a159f81ca.jpg" alt="AHMAD-MD Banner" width="100%"/>
+<img src="https://image-generator.onrender.com/image?title=AHMAD%20MD&subtitle=BEST%20WHATSAPP%20BOT%20BY%20AHMAD%20HASAN&theme=cyberpunk&avatar=https://telegra.ph/file/47a2a4b876a4a159f81ca.jpg" alt="AHMAD MD Banner" width="100%"/>
 
 <hr>
 
