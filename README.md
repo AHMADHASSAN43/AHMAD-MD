@@ -24,6 +24,7 @@ Built on Baileys • Designed for Speed • Enhanced for Stability • Powered b
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AHMADHASSAN43&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/AHMADHASSAN43/AHMAD-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
+  
     <img src="https://img.shields.io/github/forks/AHMADHASSAN43/AHMAD-MD?color=1E88E5&label=Forks&style=flat" alt="GitHub Forks" />
 </p>
 
@@ -55,7 +56,7 @@ Built on Baileys • Designed for Speed • Enhanced for Stability • Powered b
 <p style="color:#ffffff; font-size:14px;">
 This bot is <b>not affiliated with WhatsApp Inc.</b><br>
 Use at your own risk. Unauthorized selling or branding as your own is prohibited.<br><br>
-Made with ❤️ by AHMAD HASAN
+Made with ❤️ by AHMAD HASSAN
 </p>
 </div>
 
