@@ -1,8 +1,9 @@
 
 https://github.com/user-attachments/assets/daef131a-4fdb-423e-9281-7de4f0e23f7c
+
 <div align="center">
 
-<video src="https://github.com/AHMADHASSAN43/AHMAD-MD/raw/main/VID-20260407-WA0000.mp4" width="100%" autoplay loop muted playsinline preload="auto"></video>
+<video src="https://github.com/AHMADHASSAN43/AHMAD-MD/raw/main/1000242418.mp4" width="100%" autoplay loop muted playsinline preload="auto" style="pointer-events: none;"></video>
 
 <hr>
 
