@@ -2,11 +2,9 @@
 
 
 https://github.com/user-attachments/assets/058cd0cd-b25c-4377-aca9-545032f13c32
-
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AHMADHASSAN43/AHMAD-MD/main/1000242497.gif" width="100%" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);"/>
+<img src="https://raw.githubusercontent.com/AHMADHASSAN43/AHMAD-MD/main/VID-20260409-WA0115.gif" width="100%" onerror="this.src='https://raw.githubusercontent.com/AHMADHASSAN43/AHMAD-MD/main/1000242413.jpg'" />
 
 <hr>
 
@@ -32,13 +30,39 @@ https://github.com/user-attachments/assets/058cd0cd-b25c-4377-aca9-545032f13c32
 <hr>
 
 <h2 align="center">🛰️ DEPLOYMENT SITES</h2>
-<table align="center">
-   <tr>
-      <td align="center"><a href="https://heroku.com/deploy?template=https://github.com/AHMADHASSAN43/AHMAD-MD"><img src="https://img.shields.io/badge/HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white" width="160"/></a></td>
-      <td align="center"><a href="https://replit.com/github/AHMADHASSAN43/AHMAD-MD"><img src="https://img.shields.io/badge/REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white" width="160"/></a></td>
-   </tr>
-   <tr>
-      <td align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/AHMADHASSAN43/AHMAD-MD&branch=main&name=ahmad-md"><img src="https://img.shields.io/badge/KOYEB-pink?style=for-the-badge&logo=koyeb&logoColor=white" width="160"/></a></td>
+
+<p align="center">
+  <a href="https://heroku.com/deploy?template=https://github.com/AHMADHASSAN43/AHMAD-MD">
+    <img src="https://img.shields.io/badge/HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white" width="160"/>
+  </a>
+  <a href="https://replit.com/github/AHMADHASSAN43/AHMAD-MD">
+    <img src="https://img.shields.io/badge/REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white" width="160"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/AHMADHASSAN43/AHMAD-MD&branch=main&name=ahmad-md">
+    <img src="https://img.shields.io/badge/KOYEB-pink?style=for-the-badge&logo=koyeb&logoColor=white" width="160"/>
+  </a>
+  <a href="https://railway.app/new/template?template=https://github.com/AHMADHASSAN43/AHMAD-MD">
+    <img src="https://img.shields.io/badge/RAILWAY-black?style=for-the-badge&logo=railway&logoColor=white" width="160"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://render.com/deploy?repo=https://github.com/AHMADHASSAN43/AHMAD-MD">
+    <img src="https://img.shields.io/badge/RENDER-blue?style=for-the-badge&logo=render&logoColor=white" width="160"/>
+  </a>
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/AHMADHASSAN43/AHMAD-MD">
+    <img src="https://img.shields.io/badge/NETLIFY-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" width="160"/>
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+<img src="
+
       <td align="center"><a href="https://railway.app/new/template?template=https://github.com/AHMADHASSAN43/AHMAD-MD"><img src="https://img.shields.io/badge/RAILWAY-black?style=for-the-badge&logo=railway&logoColor=white" width="160"/></a></td>
    </tr>
    <tr>
