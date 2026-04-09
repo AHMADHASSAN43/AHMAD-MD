@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=AHMAD%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20AHMAD%20HASAN&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
 
-<div style="margin-top: -60px; text-align: center; font-size: 22px; font-weight: bold; letter-spacing: 2px; background: linear-gradient(90deg, #6a0dad, #ab47bc, #d896ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 12px 0;"> 
+<div style="margin-top: -60px; text-align: center; font-size: 20px; font-weight: bold; letter-spacing: 2px; background: linear-gradient(90deg, #6a0dad, #ab47bc, #d896ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 12px 0;"> 
 Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by AHMAD MD
 </div>
 
@@ -24,10 +24,8 @@ Built on Baileys • Designed for Speed • Enhanced for Stability • Powered b
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AHMADHASSAN43&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/AHMADHASSAN43/AHMAD-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
-  
     <img src="https://img.shields.io/github/forks/AHMADHASSAN43/AHMAD-MD?color=1E88E5&label=Forks&style=flat" alt="GitHub Forks" />
 </p>
-
 <hr>
 
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
@@ -36,7 +34,7 @@ Built on Baileys • Designed for Speed • Enhanced for Stability • Powered b
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
 <a href="https://github.com/AHMADHASSAN43" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMADHASSAN43&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="400" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AHMADHASSAN43&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="400" alt="GitHub Stats"/>
 </a>
 </div>
 
@@ -56,7 +54,7 @@ Built on Baileys • Designed for Speed • Enhanced for Stability • Powered b
 <p style="color:#ffffff; font-size:14px;">
 This bot is <b>not affiliated with WhatsApp Inc.</b><br>
 Use at your own risk. Unauthorized selling or branding as your own is prohibited.<br><br>
-Made with ❤️ by AHMAD HASSAN
+Made with ❤️ by AHMAD HASAN
 </p>
 </div>
 
