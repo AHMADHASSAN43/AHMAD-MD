@@ -15,8 +15,10 @@
     "fluent-ffmpeg": "^2.1.2",
     "file-type": "^16.5.4",
     "better-sqlite3": "^9.4.3",
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7",
     "fs-extra": "^11.1.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "util": "^0.12.5"
   }
 }
-
