@@ -1,14 +1,6 @@
-
-
-
-https://github.com/user-attachments/assets/058cd0cd-b25c-4377-aca9-545032f13c32
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AHMADHASSAN43/AHMAD-MD/main/VID-20260409-WA0115.gif" width="100%" onerror="this.src='https://raw.githubusercontent.com/AHMADHASSAN43/AHMAD-MD/main/1000242413.jpg'" />
-
-<hr>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6a0dad,100:ab47bc&text=AHMAD%20MD&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=twinkling&desc=Powered%20By%20AHMAD%20HASAN&descSize=20&descAlignY=65" width="100%"/>
+<img src="https://raw.githubusercontent.com/AHMADHASSAN43/AHMAD-MD/main/1000242413.jpg" width="100%" alt="AHMAD-MD Banner" />
 
 <hr>
 
@@ -30,39 +22,15 @@ https://github.com/user-attachments/assets/058cd0cd-b25c-4377-aca9-545032f13c32
 <hr>
 
 <h2 align="center">🛰️ DEPLOYMENT SITES</h2>
+<p align="center">Deploy your <b>AHMAD-MD Bot</b> with one click on your favorite hosting platforms.</p>
 
-<p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/AHMADHASSAN43/AHMAD-MD">
-    <img src="https://img.shields.io/badge/HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white" width="160"/>
-  </a>
-  <a href="https://replit.com/github/AHMADHASSAN43/AHMAD-MD">
-    <img src="https://img.shields.io/badge/REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white" width="160"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/AHMADHASSAN43/AHMAD-MD&branch=main&name=ahmad-md">
-    <img src="https://img.shields.io/badge/KOYEB-pink?style=for-the-badge&logo=koyeb&logoColor=white" width="160"/>
-  </a>
-  <a href="https://railway.app/new/template?template=https://github.com/AHMADHASSAN43/AHMAD-MD">
-    <img src="https://img.shields.io/badge/RAILWAY-black?style=for-the-badge&logo=railway&logoColor=white" width="160"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/AHMADHASSAN43/AHMAD-MD">
-    <img src="https://img.shields.io/badge/RENDER-blue?style=for-the-badge&logo=render&logoColor=white" width="160"/>
-  </a>
-  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/AHMADHASSAN43/AHMAD-MD">
-    <img src="https://img.shields.io/badge/NETLIFY-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" width="160"/>
-  </a>
-</p>
-
-<hr>
-
-<p align="center">
-<img src="
-
+<table align="center">
+   <tr>
+      <td align="center"><a href="https://heroku.com/deploy?template=https://github.com/AHMADHASSAN43/AHMAD-MD"><img src="https://img.shields.io/badge/HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white" width="160"/></a></td>
+      <td align="center"><a href="https://replit.com/github/AHMADHASSAN43/AHMAD-MD"><img src="https://img.shields.io/badge/REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white" width="160"/></a></td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/AHMADHASSAN43/AHMAD-MD&branch=main&name=ahmad-md"><img src="https://img.shields.io/badge/KOYEB-pink?style=for-the-badge&logo=koyeb&logoColor=white" width="160"/></a></td>
       <td align="center"><a href="https://railway.app/new/template?template=https://github.com/AHMADHASSAN43/AHMAD-MD"><img src="https://img.shields.io/badge/RAILWAY-black?style=for-the-badge&logo=railway&logoColor=white" width="160"/></a></td>
    </tr>
    <tr>
@@ -70,6 +38,13 @@ https://github.com/user-attachments/assets/058cd0cd-b25c-4377-aca9-545032f13c32
       <td align="center"><a href="https://app.netlify.com/start/deploy?repository=https://github.com/AHMADHASSAN43/AHMAD-MD"><img src="https://img.shields.io/badge/NETLIFY-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" width="160"/></a></td>
    </tr>
 </table>
+
+<hr>
+
+<h2 align="center">🚀 Deploy Free on VPS</h2>
+<blockquote>
+Star this repository to support the project. Fork the repository to your own GitHub account. Copy your GitHub username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup.
+</blockquote>
 
 <hr>
 
