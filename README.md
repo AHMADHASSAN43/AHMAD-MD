@@ -1,17 +1,4 @@
-<p align="center">
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/AHMADHASSAN43/AHMAD-MD&branch=main&name=ahmad-md">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb" width="200">
-</a>
-</p>
-
-<p align="center">
-<a href="https://render.com/deploy?repo=https://github.com/AHMADHASSAN43/AHMAD-MD">
-  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" width="200">
-</a>
-</p>
 <div align="center">
-
-<video src="https://github.com/AHMADHASSAN43/AHMAD-MD/raw/main/vh56ik.mp4" width="100%" controls autoplay loop muted></video>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=AHMAD%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20AHMAD%20HASAN&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
 
@@ -19,11 +6,23 @@
 Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by AHMAD MD
 </div>
 
+<hr>
+
+<h2 align="center">🚀 DEPLOY AHMAD-MD</h2>
+
 <p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/AHMADHASSAN43/AHMAD-MD">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width="200">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" width="180">
+</a>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/AHMADHASSAN43/AHMAD-MD&branch=main&name=ahmad-md">
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb" width="180">
+</a>
+<a href="https://render.com/deploy?repo=https://github.com/AHMADHASSAN43/AHMAD-MD">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" width="180">
 </a>
 </p>
+
+<hr>
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/-✨_AHMAD--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd" />
