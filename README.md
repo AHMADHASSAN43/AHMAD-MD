@@ -1,9 +1,12 @@
 
-https://github.com/user-attachments/assets/daef131a-4fdb-423e-9281-7de4f0e23f7c
+
+
+https://github.com/user-attachments/assets/058cd0cd-b25c-4377-aca9-545032f13c32
+
 
 <div align="center">
 
-<video src="https://github.com/AHMADHASSAN43/AHMAD-MD/raw/main/1000242418.mp4" width="100%" autoplay loop muted playsinline preload="auto" style="pointer-events: none;"></video>
+<img src="https://raw.githubusercontent.com/AHMADHASSAN43/AHMAD-MD/main/1000242497.gif" width="100%" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);"/>
 
 <hr>
 
